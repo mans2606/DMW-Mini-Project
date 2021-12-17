@@ -2,14 +2,21 @@
 
 
 MET's Institute of Engineering
+
 Department of Computer Engineering
+
 Academic Year 2021-22
+
 A MINI PROJECT REPORT ON ‘Loan Prediction using Classifiers’
+
 Submitted by
 
 Ms. Chaiatali Dalal (Roll No: 10)
+
 Ms. Pratiksha Dinde (Roll No: 12)
+
 Ms. Mansi Jawale (Roll No: 16)
+
 Ms.Vaishnavi Avhad (Roll No: 28)
 
 Under the guidance of
